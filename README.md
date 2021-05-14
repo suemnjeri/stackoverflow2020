@@ -1,7 +1,7 @@
 # Analysis of the stackoverflow survey 2020 dataset.
 
 ## Installation
-Python is required to run the code. The basic packages that come woth the Anaconda distribution are sufficient for this project.
+Python is required to run the code. The basic packages that come woth the Anaconda distribution are sufficient for this project. All python files are created and run in a Jupyter notebook.
 
 ## Motivation
 From this dataset, I set out to answer 3 questions.
@@ -16,7 +16,7 @@ The code is contained in four notebooks from Part 1 to part 4.
 These parts represent my workflow exploring, cleaning, analysing and visualizing the results.
 - Part 1: Performed basic EDA on the full dataset. I also split the devtypes per person into their own separate columns.
 - Part 2: Cleaned the dataset by removing rows where 'Age' (and other essential age related fields) were missing.
-- Part 3: Added a regions/continent column and countries to their regions. This is a short notebook.
+- Part 3: Added a regions/continent column and mapped countries to their regions. This is a short notebook.
 - Part 4: Performed final analysis, cleaning and visualizations that are included in the medium article.
 
 The .csv files that start with 'SO' are created in the jupyter notebooks as part of the workflow. 
@@ -27,3 +27,6 @@ The other .csv files that start with 'survey_results' are the original datasets 
 
 ## Findings
 The results and visualizations are well documented in a medium post
+
+## Licensing, Authors, Acknowledgements
+The data was downloaded fro the official stackoverflow survey page [here](https://insights.stackoverflow.com/survey)
