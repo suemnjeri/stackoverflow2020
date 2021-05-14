@@ -29,4 +29,4 @@ The other .csv files that start with 'survey_results' are the original datasets 
 The results and visualizations are well documented in a medium post
 
 ## Licensing, Authors, Acknowledgements
-The data was downloaded fro the official stackoverflow survey page [here](https://insights.stackoverflow.com/survey)
+This project was made possible because of the data provided by stackoverflow. Find the the 2020 dataset along with those from other years here [here](https://insights.stackoverflow.com/survey).
