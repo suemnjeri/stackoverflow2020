@@ -1,7 +1,7 @@
 # Analysis of the stackoverflow survey 2020 dataset.
 
 ## Installation
-Python is required to run the code. The basic packages that come woth the Anaconda distribution are sufficient for this profect.
+Python is required to run the code. The basic packages that come woth the Anaconda distribution are sufficient for this project.
 
 ## Motivation
 From this dataset, I set out to answer 3 questions.
