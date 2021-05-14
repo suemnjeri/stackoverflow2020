@@ -5,7 +5,7 @@ Python is required to run the code. The basic packages that come woth the Anacon
 
 ## Motivation
 From this dataset, I set out to answer 3 questions.
-1. Are you too old to code?
+1. Can someone be too old to learn coding?
 2. What are some factors that contribute to starting late to code?
 3. What are some common effects of people who started coding late (from 30 years old)
 
