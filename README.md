@@ -26,7 +26,7 @@ The 'regions countries.csv' is used in 'Part 3' notebook.
 The other .csv files that start with 'survey_results' are the original datasets downloaded from the Stackoverflow website.
 
 ## Findings
-The results and visualizations are well documented in a medium post
+The results and visualizations are well documented in [this medium post](https://towardsdatascience.com/this-data-answers-the-am-i-too-old-to-learn-coding-timeless-question-70deba5d294f?sk=7c46f9ceee19d552704fbf3e28ff40ec).
 
 ## Licensing, Authors, Acknowledgements
 This project was made possible because of the data provided by stackoverflow. Find the the 2020 dataset along with those from other years here [here](https://insights.stackoverflow.com/survey).
