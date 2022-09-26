@@ -1,5 +1,7 @@
 # Analysis of the stackoverflow survey 2020 dataset.
 
+ ### [Blog post on medium](https://towardsdatascience.com/this-data-answers-the-am-i-too-old-to-learn-coding-timeless-question-70deba5d294f)
+
 ## Installation
 Python is required to run the code. The basic packages that come woth the Anaconda distribution are sufficient for this project. All python files are created and run in a Jupyter notebook.
 
