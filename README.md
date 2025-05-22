@@ -33,7 +33,7 @@ The files in the ['Original stackoverflow files'](https://github.com/suemnjeri/s
 
 
 ## Findings
-The results and visualizations are well documented in [this medium post](https://towardsdatascience.com/this-data-answers-the-am-i-too-old-to-learn-coding-timeless-question-70deba5d294f?sk=7c46f9ceee19d552704fbf3e28ff40ec).
+The results and visualizations are well documented in [this medium post](https://medium.com/@suemnjeri/qualities-of-my-best-data-science-articles-after-analysis-with-python-4befa5f8edb7).
 
 ## Licensing, Authors, Acknowledgements
 This project was made possible because of the data provided by stackoverflow. Find the the 2020 dataset along with those from other years here [here](https://insights.stackoverflow.com/survey).
